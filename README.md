@@ -1,2 +1,1 @@
-# mirronake.com
-My site
+# MIRRONAKE.com
